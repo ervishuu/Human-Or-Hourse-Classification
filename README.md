@@ -1,4 +1,4 @@
-# Horse-and-Human-classification-with-Tensorflow
+# Horse-and-Human-classification-with-Keras
 
 • Step 1:Starting with OS library to use Operating System libraries, giving you access to the file system, and the zipfile library allowing you to unzip the data.
 
